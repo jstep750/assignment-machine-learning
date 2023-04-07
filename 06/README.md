@@ -1,0 +1,7 @@
+![assignment_06 - Jupyter Notebook_page-0001](https://user-images.githubusercontent.com/48945057/230648739-e0b86824-e173-474f-929d-63676f3955e9.jpg)
+![assignment_06 - Jupyter Notebook_page-0002](https://user-images.githubusercontent.com/48945057/230648744-0c03cfb5-6ada-4eaf-8f63-d7c22f481c2a.jpg)
+![assignment_06 - Jupyter Notebook_page-0003](https://user-images.githubusercontent.com/48945057/230648749-3c33283a-9268-4d92-aecc-8553f570713e.jpg)
+![assignment_06 - Jupyter Notebook_page-0004](https://user-images.githubusercontent.com/48945057/230648752-9b04c4b3-5f0d-4351-9a76-e8968a0e1787.jpg)
+![assignment_06 - Jupyter Notebook_page-0005](https://user-images.githubusercontent.com/48945057/230648754-9e5d51f2-d4d7-4b55-8404-57b424b05f76.jpg)
+![assignment_06 - Jupyter Notebook_page-0006](https://user-images.githubusercontent.com/48945057/230648757-5f7b314f-8e7e-4b33-a9fa-91ee761a310b.jpg)
+![assignment_06 - Jupyter Notebook_page-0007](https://user-images.githubusercontent.com/48945057/230648759-8216233c-b26a-4b1e-adb6-d933a8c50323.jpg)
