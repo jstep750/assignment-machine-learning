@@ -1,1 +1,6 @@
-[assignment_03_assignment_03_1 - Jupyter Notebook.pdf](https://github.com/jstep750/assignment-machine-learning/files/11180239/assignment_03_assignment_03_1.-.Jupyter.Notebook.pdf)
+![assignment_03_assignment_03_1 - Jupyter Notebook-1](https://user-images.githubusercontent.com/48945057/230647214-8c83af45-fcdb-47b3-bdbe-b4a2eb126730.jpg)
+![assignment_03_assignment_03_1 - Jupyter Notebook-2](https://user-images.githubusercontent.com/48945057/230647252-1d4cf5d8-4cea-44e3-b427-1df763823998.jpg)
+![assignment_03_assignment_03_1 - Jupyter Notebook-3](https://user-images.githubusercontent.com/48945057/230647253-b7fb957f-457f-4349-92f0-2046294310f4.jpg)
+![assignment_03_assignment_03_1 - Jupyter Notebook-4](https://user-images.githubusercontent.com/48945057/230647258-ce9134a7-1869-4f29-bade-908231f58832.jpg)
+![assignment_03_assignment_03_1 - Jupyter Notebook-5](https://user-images.githubusercontent.com/48945057/230647259-b8b5098d-ff7b-4dc5-8fc3-d5cf3e162497.jpg)
+![assignment_03_assignment_03_1 - Jupyter Notebook-6](https://user-images.githubusercontent.com/48945057/230647262-9d4a00d7-4548-41ec-92c0-9147f4f93ca3.jpg)
